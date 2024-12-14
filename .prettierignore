@@ -1,0 +1,7 @@
+*.env
+.env
+.env*
+.gitignore
+/node_modules
+/.vscode
+./dist
